@@ -6,8 +6,8 @@
 Welcome to the Unspoken Health repository! This repository houses the UI/UX design assets and guidelines for Unspoken Health, a mental health app designed to promote well-being and provide support to users. With the tagline "you smile we smile," our aim is to create a positive and supportive environment for users to prioritize their mental health.
 
 ## Design Preview
-(https://github.com/subchat/UI-UX-DEsign-On-Mental-Health-App/assets/82167489/3272bdb2-155a-4ca2-a315-d6ef6afb49cc)
-mage.png)
+![new1](https://github.com/subchat/UI-UX-DEsign-On-Mental-Health-App/assets/82167489/97f037d1-bbfc-48ab-8b7a-8cf6cee6fe06)
+
 
 ## Features
 - Clean and intuitive user interface
